@@ -9,10 +9,14 @@ The key objective is to address the practical challenge of Review Spam Detection
 
 ## Why This Project Was Built
 
-The presence of fake and bot-generated reviews impacts online shopping experiences, damages product credibility, and undermines customer trust. This project was designed to:
+The presence of fake and bot-generated reviews impacts online shopping experiences, damages product credibility, and undermines customer trust.
+
+This project was designed to:
 
   Detect misleading and bot-generated reviews on e-commerce platforms.
+  
   Explore text classification using machine learning, addressing class imbalance challenges.
+  
   Develop a full-stack ML workflow—from preprocessing to deployment.
 
 ## Use Cases
