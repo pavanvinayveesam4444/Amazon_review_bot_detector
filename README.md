@@ -20,9 +20,13 @@ The presence of fake and bot-generated reviews impacts online shopping experienc
 This model has broader applicability across several domains:
 
   **E-commerce Platforms** – Identifying fake reviews or auto-generated promotional content.
+  
   **Social Media Moderation** – Filtering and flagging bot-generated comments.
+  
   **Customer Feedback Systems** – Detecting and excluding fraudulent survey responses.
+  
   **Email Spam Detection** – Adaptable for filtering out unsolicited or auto-generated emails.
+  
   **Research Applications** – Studying the effectiveness of spam classifiers on real-world datasets.
 
 
