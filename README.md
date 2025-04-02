@@ -48,6 +48,9 @@ This model has broader applicability across several domains:
 ## How This Project Is Useful
 
   Detects spam or bot-generated reviews in real-time.
+  
   Offers confidence scores for every prediction.
+  
   Provides an end-to-end ML pipeline demonstration from data ingestion to user interaction.
+  
   Empowers non-technical users to run predictions via a clean and simple web interface.
