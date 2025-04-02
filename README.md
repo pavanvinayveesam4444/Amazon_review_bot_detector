@@ -33,10 +33,15 @@ This model has broader applicability across several domains:
 ## Technologies Used
 
   **Python** – For data loading, preprocessing, and model development.
+  
   **Scikit-learn** – For TF-IDF vectorization, model training, and evaluation.
+  
   **Pandas & NumPy** – For structured data manipulation and analysis.
+  
   **Streamlit** – To create a lightweight, user-friendly web interface.
+  
   **Joblib** – To serialize and reuse the trained model and vectorizer.
+  
   **Regular Expressions (Regex)** – For cleaning raw textual data effectively.
 
 
