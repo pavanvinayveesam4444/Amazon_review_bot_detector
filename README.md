@@ -1,4 +1,4 @@
-# Review Bot Detector
+# Amazon Review Bot Detector
 
 ## Project Overview
 
